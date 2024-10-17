@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          Surbhi Sanjiv Banchhode
+         <h1> Name:- Surbhi Sanjiv Banchhode <h1>
         </p>
         <p>
           42106
